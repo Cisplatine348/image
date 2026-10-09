@@ -12,3 +12,8 @@ Les images elles-mêmes vivent dans l'artifact. Ici, on ne trouve que les journa
 ## Journaux
 
 `journaux/item-XXX/contenu-YYY-<nom>.md` : un fichier par contenu, avec les images retenues et tous les échanges tour par tour.
+
+## Règles en vigueur
+
+- Au moins deux tours de recherche.
+- À partir du 2ᵉ tour, si un tour rapporte moins de 3 nouvelles images validées, la recherche s'arrête et le juge garde ce qui existe (moins de 20 images si besoin).
