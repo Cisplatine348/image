@@ -2,7 +2,7 @@
 
 *Arthropathies microcristallines.* · rang B
 
-**Résultat : 2 images en cours, 2 en entraînement** (objectif 10 + 10).
+**Résultat : 5 images en cours, 6 en entraînement** (objectif 10 + 10).
 
 > Juge : Le lot est petit mais juste : les quatre radiographies de poignet de face montrent une calcification du ligament triangulaire sous la tête ulnaire. r1_02 et r1_03 viennent du même patient, mais ce sont les deux poignets (droit et gauche) : ce ne sont pas des doublons, donc une image va en cours et l'autre en entraînement. r2_04 a des flèches et montre aussi l'arthropathie SLAC associée : elle va en cours pour sa valeur pédagogique. r1_08 est un peu moins évidente et va en entraînement.
 
@@ -12,6 +12,9 @@
 |---|---|---|---|
 | 1 | Poignet droit de face chez un homme jeune (chondrocalcinose probablement familiale) : calcification nette du ligament triangulaire sous la tête ulnaire | [Radiopaedia](https://radiopaedia.org/cases/chondrocalcinosis-4) · [image](https://prod-images-static.radiopaedia.org/images/46381758/c4f71af75a7cba593ed6f0154e32ddf9e4385abc7a80d64029d320daaaff3ccf_jumbo.jpeg) | CC BY-NC-SA 3.0 |
 | 2 | Poignet de face : chondrocalcinose du fibrocartilage triangulaire dans l'espace ulnocarpien (tête de flèche), associée à une arthropathie à pyrophosphate de calcium avec poignet SLAC (flèches) | [Insights into Imaging (PMC)](https://insightsimaging.springeropen.com/articles/10.1007/s13244-018-0619-0/figures/10) · [image](https://media.springernature.com/full/springer-static/image/art%3A10.1007%2Fs13244-018-0619-0/MediaObjects/13244_2018_619_Fig10_HTML.png) | CC BY 4.0 |
+| 3 | Poignet droit de face chez un patient polytraumatisé : calcification triangulaire du fibrocartilage triangulaire découverte fortuitement (chondrocalcinose diffuse) | [Radiopaedia](https://radiopaedia.org/cases/calcium-pyrophosphate-dihydrate-deposition-disease-2) · [image](https://prod-images-static.radiopaedia.org/images/4918236/25d61d6ae4a6bee6f98b52a46747c7_jumbo.jpeg) | CC BY-NC-SA 3.0 |
+| 4 | Poignet gauche en incidence oblique : calcification du fibrocartilage triangulaire visible entre ulna et carpe | [Radiopaedia](https://radiopaedia.org/cases/chondrocalcinosis-4) · [image](https://prod-images-static.radiopaedia.org/images/46381766/f8178fbf46af01a856e079b5fa611b4d774228c61fa48e4114814d0d93df0a60_jumbo.jpeg) | CC BY-NC-SA 3.0 |
+| 5 | Radiographie de face du poignet : liseré calcique linéaire du ligament triangulaire, entre la tête ulnaire et le triquetrum (chondrocalcinose) | [Radiopaedia](https://radiopaedia.org/cases/triangular-fibrocartilage-complex-chondrocalcinosis) · [image](https://prod-images-static.radiopaedia.org/images/13808385/d13d87ab997ea4aec64462cc178537_jumbo.jpeg) | CC BY-NC-SA 3.0 |
 
 ## Images retenues : Entraînement
 
@@ -19,6 +22,10 @@
 |---|---|---|---|
 | 1 | Poignet gauche de face, même patient : calcification triangulaire dense du ligament triangulaire du carpe (atteinte bilatérale) | [Radiopaedia](https://radiopaedia.org/cases/chondrocalcinosis-4) · [image](https://prod-images-static.radiopaedia.org/images/46381763/b98687e8594d5b8b3d1498875184f4943cf4aa85cb8c0fa77c4fab6f46043159_jumbo.jpeg) | CC BY-NC-SA 3.0 |
 | 2 | Poignet droit de face : chondrocalcinose du ligament triangulaire et du ligament luno-triquétral (CPPD) | [Radiopaedia](https://radiopaedia.org/cases/carpal-cppd-tfcc-and-lunotriquteral-ligament-chondrocalcinosis) · [image](https://prod-images-static.radiopaedia.org/images/73955740/e52a1d43b0ca0aa5a6d2322e9038cb553dd39c553203b66d535dc2d45d91eb2c_jumbo.jpeg) | CC BY-NC-SA 3.0 |
+| 3 | Poignet droit en oblique : calcification du ligament triangulaire en regard de la tête ulnaire | [Radiopaedia](https://radiopaedia.org/cases/chondrocalcinosis-4) · [image](https://prod-images-static.radiopaedia.org/images/46381761/cc73b535eb5f07441cba14fb63d6b9207b952e094a94477f1d6565e3a25f6380_jumbo.jpeg) | CC BY-NC-SA 3.0 |
+| 4 | Même poignet en inclinaison ulnaire : calcification du ligament triangulaire bien dégagée sous la tête ulnaire | [Radiopaedia](https://radiopaedia.org/cases/chondrocalcinosis-hand-and-wrist) · [image](https://prod-images-static.radiopaedia.org/images/5756966/6e6858122707d9b987ec0ff25a5a65_jumbo.jpg) | CC BY-NC-SA 3.0 |
+| 5 | Main et poignet droits de face chez un sujet âgé : calcifications grumeleuses en regard du ligament triangulaire (CPPD) | [Radiopaedia](https://radiopaedia.org/cases/calcium-pyrophosphate-deposition-disease-cppd-of-the-elbow-and-wrist) · [image](https://prod-images-static.radiopaedia.org/images/59469533/18934378fa525f05b6e753eb63e1f73408ed9e78047a824e62966dc68e047494_jumbo.jpeg) | CC BY-NC-SA 3.0 |
+| 6 | Poignet en oblique : fine calcification du fibrocartilage triangulaire sous la tête ulnaire (arthropathie à pyrophosphate) | [Radiopaedia](https://radiopaedia.org/cases/calcium-pyrophosphate-deposition-arthropathy-wrist) · [image](https://prod-images-static.radiopaedia.org/images/7037324/4137e2161d8d897858f04dbfe537b5_jumbo.jpg) | CC BY-NC-SA 3.0 |
 
 ## Échanges entre agents
 
@@ -79,3 +86,16 @@
 
 **⚖️ Juge final** : 2 en cours, 2 en entraînement, 0 rejetée. Le lot est petit mais juste : les quatre radiographies de poignet de face montrent une calcification du ligament triangulaire sous la tête ulnaire. r1_02 et r1_03 viennent du même patient, mais ce sont les deux poignets (droit et gauche) : ce ne sont pas des doublons, donc une image va en cours et l'autre en entraînement. r2_04 a des flèches et montre aussi l'arthropathie SLAC associée : elle va en cours pour sa valeur pédagogique. r1_08 est un peu moins évidente et va en entraînement.
 
+
+### Révision humaine
+
+
+**🧑‍⚕️ Révision humaine** : Révision humaine : règle d'indulgence pour Radiopaedia. Les images d'un cas Radiopaedia consacré au contenu, refusées seulement pour discrétion du signe ou sur un désaccord entre les deux vérificateurs, sont réintégrées : c105_r1_09, c105_r1_04, c105_r1_01, c105_r1_05, c105_r1_07, c105_r1_13, c105_r1_24.
+
+- Réintégrée : Poignet droit de face chez un patient polytraumatisé : calcification triangulaire du fibrocartilage triangulaire découverte fortuitement (chondrocalcinose diffuse) — réintégrée (désaccord)
+- Réintégrée : Poignet gauche en incidence oblique : calcification du fibrocartilage triangulaire visible entre ulna et carpe — réintégrée (désaccord)
+- Réintégrée : Radiographie de face du poignet : liseré calcique linéaire du ligament triangulaire, entre la tête ulnaire et le triquetrum (chondrocalcinose) — réintégrée (discrétion)
+- Réintégrée : Poignet droit en oblique : calcification du ligament triangulaire en regard de la tête ulnaire — réintégrée (désaccord)
+- Réintégrée : Même poignet en inclinaison ulnaire : calcification du ligament triangulaire bien dégagée sous la tête ulnaire — réintégrée (discrétion)
+- Réintégrée : Main et poignet droits de face chez un sujet âgé : calcifications grumeleuses en regard du ligament triangulaire (CPPD) — réintégrée (désaccord)
+- Réintégrée : Poignet en oblique : fine calcification du fibrocartilage triangulaire sous la tête ulnaire (arthropathie à pyrophosphate) — réintégrée (discrétion)

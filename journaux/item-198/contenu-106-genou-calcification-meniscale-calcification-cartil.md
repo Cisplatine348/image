@@ -2,7 +2,7 @@
 
 *Arthropathies microcristallines.* · rang B
 
-**Résultat : 6 images en cours, 5 en entraînement** (objectif 10 + 10).
+**Résultat : 6 images en cours, 8 en entraînement** (objectif 10 + 10).
 
 > Juge : Lot homogène et pertinent : toutes les images montrent bien une chondrocalcinose du genou, avec des liserés calciques dans les ménisques et/ou le cartilage. On ne trouve aucun doublon et aucune dérive vers un sujet voisin. Les clichés annotés de face (r1_23, r1_24, r2_01, r3_01) sont très démonstratifs pour le cours. Les images plus subtiles vont en entraînement : incidence fémoro-patellaire, photo bleutée d'un film (r3_02) et flèches discrètes (r2_04, r1_26). r2_02 est sous licence non libre (© Radsource), ce qu'il faut garder en tête pour la diffusion.
 
@@ -26,6 +26,9 @@
 | 3 | Genou gauche de face et de profil : chondrocalcinose de l'interligne médial (têtes de flèche) | [PMC](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7709534) · [image](https://openi.nlm.nih.gov/imgs/512/309/7709534/PMC7709534_JMU-28-188-g001.png) | CC BY-NC-SA 4.0 |
 | 4 | Incidence fémoro-patellaire : liseré calcique du cartilage articulaire fémoro-patellaire (chondrocalcinose) | [Radiopaedia](https://radiopaedia.org/cases/chondrocalcinosis-patellofemoral) · [image](https://prod-images-static.radiopaedia.org/images/23680/83670ab86f319cc208c7d6892e5fab_big_gallery.jpeg) | CC BY-NC-SA 3.0 |
 | 5 | Genou de face : chondrocalcinose avec opacités calciques linéaires dans les interlignes fémoro-tibiaux médial et latéral (ménisques, flèches). | [Commons](https://commons.wikimedia.org/wiki/File:Chondrocalcinosis_-_annotated.jpg) · [image](https://upload.wikimedia.org/wikipedia/commons/f/f6/Chondrocalcinosis_-_annotated.jpg) | CC0 |
+| 6 | Radiographie de face du genou : calcifications méniscales médiale et latérale (chondrocalcinose) | [Radiopaedia](https://radiopaedia.org/cases/chondrocalcinosis-2) · [image](https://prod-images-static.radiopaedia.org/images/2354606/75c228499b3e9cc7089ae233138871_big_gallery.jpg) | CC BY-NC-SA 3.0 |
+| 7 | Genou de face : chondrocalcinose méniscale avec arthrose, évocatrice de CPPD | [Radiopaedia](https://radiopaedia.org/cases/chondrocalcinosis-of-the-knee-2) · [image](https://prod-images-static.radiopaedia.org/images/10291151/0135da501fc055544b5e310774735e_big_gallery.jpg) | CC BY-NC-SA 3.0 |
+| 8 | Genou droit de face : calcification des ménisques médial et latéral | [Radiopaedia](https://radiopaedia.org/cases/meniscal-calcifcation) · [image](https://prod-images-static.radiopaedia.org/images/3038217/abc321703c5cec2289c57dc0f93437b161707f2fcbdef56c00cb00ddc0c9ce38_big_gallery.jpeg) | CC BY-NC-SA 3.0 |
 
 ## Échanges entre agents
 
@@ -104,3 +107,12 @@
 
 **⚖️ Juge final** : 6 en cours, 5 en entraînement, 0 rejetée. Lot homogène et pertinent : toutes les images montrent bien une chondrocalcinose du genou, avec des liserés calciques dans les ménisques et/ou le cartilage. On ne trouve aucun doublon et aucune dérive vers un sujet voisin. Les clichés annotés de face (r1_23, r1_24, r2_01, r3_01) sont très démonstratifs pour le cours. Les images plus subtiles vont en entraînement : incidence fémoro-patellaire, photo bleutée d'un film (r3_02) et flèches discrètes (r2_04, r1_26). r2_02 est sous licence non libre (© Radsource), ce qu'il faut garder en tête pour la diffusion.
 
+
+### Révision humaine
+
+
+**🧑‍⚕️ Révision humaine** : Révision humaine : règle d'indulgence pour Radiopaedia. Les images d'un cas Radiopaedia consacré au contenu, refusées seulement pour discrétion du signe ou sur un désaccord entre les deux vérificateurs, sont réintégrées : c106_r1_03, c106_r1_13, c106_r1_17.
+
+- Réintégrée : Radiographie de face du genou : calcifications méniscales médiale et latérale (chondrocalcinose) — réintégrée (discrétion)
+- Réintégrée : Genou de face : chondrocalcinose méniscale avec arthrose, évocatrice de CPPD — réintégrée (discrétion)
+- Réintégrée : Genou droit de face : calcification des ménisques médial et latéral — réintégrée (discrétion)

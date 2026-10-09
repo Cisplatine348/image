@@ -17,3 +17,4 @@ Les images elles-mêmes vivent dans l'artifact. Ici, on ne trouve que les journa
 
 - Au moins deux tours de recherche.
 - À partir du 2ᵉ tour, si un tour rapporte moins de 3 nouvelles images validées, la recherche s'arrête et le juge garde ce qui existe (moins de 20 images si besoin).
+- Indulgence pour Radiopaedia : une image d'un cas Radiopaedia est acceptée si les deux vérificateurs sont en désaccord, ou si elle n'a été refusée que pour la discrétion du signe.
